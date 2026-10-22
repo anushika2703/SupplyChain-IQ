@@ -1,0 +1,25 @@
+supplier_id,supplier_name,supplier_country,supplier_tier,contracted_lead_time_days
+SUP-001,Supplier 01,Germany,Standard,20
+SUP-002,Supplier 02,China,Preferred,6
+SUP-003,Supplier 03,Sweden,Standard,18
+SUP-004,Supplier 04,Poland,Standard,6
+SUP-005,Supplier 05,Sweden,Preferred,12
+SUP-006,Supplier 06,China,Strategic,15
+SUP-007,Supplier 07,Sweden,Standard,8
+SUP-008,Supplier 08,India,Preferred,8
+SUP-009,Supplier 09,Germany,Preferred,6
+SUP-010,Supplier 10,Poland,Standard,3
+SUP-011,Supplier 11,Poland,Preferred,8
+SUP-012,Supplier 12,Mexico,Strategic,6
+SUP-013,Supplier 13,Germany,Preferred,15
+SUP-014,Supplier 14,Sweden,Preferred,20
+SUP-015,Supplier 15,Mexico,Standard,3
+SUP-016,Supplier 16,India,Standard,16
+SUP-017,Supplier 17,China,Preferred,10
+SUP-018,Supplier 18,Mexico,Strategic,14
+SUP-019,Supplier 19,Mexico,Standard,21
+SUP-020,Supplier 20,China,Strategic,10
+SUP-021,Supplier 21,Mexico,Standard,5
+SUP-022,Supplier 22,Germany,Preferred,18
+SUP-023,Supplier 23,China,Standard,19
+SUP-024,Supplier 24,China,Preferred,8
